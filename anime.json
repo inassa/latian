@@ -6,7 +6,7 @@
             "episode": 500,
             "categorie":"Animation | Drama | Adventure",
             "studio":"Studio Pierrot",
-            "img": "https://firebasestorage.googleapis.com/v0/b/seputar-ptn.appspot.com/o/anakbingung.jpg?alt=media&token=9cdb99a1-8078-4042-a411-9572c4aba81d"
+            "img": "https://storage.cloud.google.com/staging.seputar-ptn.appspot.com/anakbingung.jpg"
         },
         {
             "name": "One Piece",
